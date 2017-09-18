@@ -1,0 +1,20 @@
+#BlueJ class context
+comment0.target=Anemoi
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Anemoi\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Anemoi()
+comment2.params=rest
+comment2.target=Anemoi(boolean)
+comment3.params=
+comment3.target=void\ act()
+comment4.params=
+comment4.target=void\ caminar()
+comment5.params=
+comment5.target=void\ moveRight()
+comment6.params=
+comment6.target=void\ posicionImagen()
+comment7.params=
+comment7.target=void\ animateWalkingRight()
+comment8.params=
+comment8.target=void\ setDialogoCompleto()
+numComments=9
